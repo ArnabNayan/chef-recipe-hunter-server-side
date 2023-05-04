@@ -1,192 +1,174 @@
 [
     {
       "id": 1,
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml2ghnJh6lsboYzOhL_pCNR8Ojadh5_aAgDWiahXoHFUr1tEy_nL3whtDJR3WV0R9UrA&usqp=CAU",
-      "name": "John Smith",
+      "picture": "https://lamuseblue.s3.amazonaws.com/wp-content/uploads/2015/03/16044213/Chef-Massimo-Bottura.png",
+      "name": "Massimo Bottura",
       "years_of_experience": 10,
       "num_of_recipes": 50,
       "likes": 1000,
-      "bio": "John Smith is a classically trained chef with a passion for modern fusion cuisine. He has worked in some of the top restaurants around the world and has won numerous awards for his innovative dishes.",
+      "bio": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative approach to Italian cuisine.",
       "recipes": [
         {
-          "name": "Lobster Thermidor",
-          "ingredients": ["lobster", "butter", "shallots", "white wine", "cream", "Dijon mustard", "cheese", "breadcrumbs"],
-          "cooking_method": "1. Preheat the oven to 400°F. 2. Cut the cooked lobster meat into chunks. 3. Melt the butter in a pan and sauté the shallots until soft. 4. Add the white wine and cook until reduced by half. 5. Add the cream and mustard and simmer until the sauce thickens. 6. Stir in the lobster meat and cheese. 7. Pour the mixture into a baking dish and sprinkle with breadcrumbs. 8. Bake in the oven for 15-20 minutes or until golden brown. ",
+          "name": "Parmigiano Reggiano Five Ages",
+          "ingredients": "Parmigiano Reggiano cheese, balsamic vinegar, white truffle oil, hazelnuts",
+          "cooking_method": "1. Grate the Parmigiano Reggiano cheese.\n2. Toast the hazelnuts in a pan.\n3. Mix the grated cheese with balsamic vinegar and white truffle oil.\n4. Top with toasted hazelnuts. ",
           "rating": 4.5
         },
         {
-          "name": "Beef Wellington",
-          "ingredients": ["beef tenderloin", "mushrooms", "shallots", "puff pastry", "egg", "salt", "pepper"],
-          "cooking_method": "1. Preheat the oven to 425°F. 2. Season the beef tenderloin with salt and pepper. 3. Sear the beef in a hot pan until browned on all sides. 4. Remove the beef from the pan and set aside to cool. 5. In the same pan, sauté the mushrooms and shallots until soft. 6. Roll out the puff pastry and place the beef on top. 7. Spoon the mushroom mixture over the beef. 8. Fold the puff pastry over the beef and seal the edges. 9. Brush the pastry with egg wash. 10. Bake in the oven for 25-30 minutes or until the pastry is golden brown.",
+          "name": "Risotto cacio e pepe",
+          "ingredients": "Arborio rice, Pecorino Romano cheese, black pepper, butter",
+          "cooking_method": "1. Toast the rice in a pan.\n2. Add hot water and stir until the rice is cooked.\n3. Add Pecorino Romano cheese, black pepper, and butter.\n4. Stir until the cheese is melted and serve.",
           "rating": 4.8
         },
         {
-          "name": "Crème Brûlée",
-          "ingredients": ["heavy cream", "sugar", "egg yolks", "vanilla extract"],
-          "cooking_method": "1. Preheat the oven to 325°F. 2. In a saucepan, heat the cream and vanilla extract until hot. 3. In a mixing bowl, whisk together the sugar and egg yolks. 4. Slowly pour the hot cream into the egg mixture, whisking continuously. 5. Pour the mixture into ramekins. 6. Place the ramekins in a baking dish and fill the dish with hot water. 7. Bake in the oven for 30-35 minutes or until set. 8. Chill the crème brûlée in the fridge for at least 2 hours. 9. Sprinkle sugar over the top of each ramekin and use a blowtorch to caramelize the sugar.",
+          "name": "Tortellini with Parmigiano Reggiano cream sauce",
+          "ingredients": "Tortellini, heavy cream, Parmigiano Reggiano cheese, butter",
+          "cooking_method": "1. Cook the tortellini according to the instructions on the package.\n2. In a pan, heat the heavy cream and butter.\n3. Add grated Parmigiano Reggiano cheese and stir until melted.\n4. Add the cooked tortellini and toss to coat with the sauce.",
           "rating": 4.3
         }
       ]
     },
     {
         "id": 2,
-        "picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
-        "name": "John Doe",
+        "picture": "https://www.iitaly.org/sites/default/files/styles/article-slideshow-visual/public/slideshow_pro/marchesi.jpg",
+        "name": "Gualtiero Marchesi",
         "years_of_experience": 5,
         "num_of_recipes": 30,
         "likes": 500,
-        "bio": "John Doe is a renowned chef with over 10 years of experience in the culinary industry. He has cooked for some of the most prestigious restaurants around the world, and has a passion for creating new and innovative dishes that push the boundaries of traditional cuisine.",
+        "bio": "Gualtiero Marchesi was an Italian chef and the founder of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars.",
         "recipes": [
           {
-            "name": "Pan-Seared Sea Bass",
-            "ingredients": [
-              "2 sea bass fillets",
-              "2 tbsp olive oil",
-              "1 tbsp butter",
-              "1 clove garlic, minced",
-              "1 lemon, juiced"
-            ],
-            "cooking_method": "Season the sea bass fillets with salt and pepper. Heat the olive oil in a pan over high heat. Add the sea bass fillets and cook for 3-4 minutes on each side until golden brown. Remove the fish from the pan and set aside. Add the butter and garlic to the pan and cook for 1-2 minutes until fragrant. Add the lemon juice and cook for another minute. Pour the sauce over the sea bass fillets and serve immediately.",
+            "name": "Risotto alla Milanese",
+            "ingredients": "Carnaroli rice, beef stock, Parmigiano Reggiano cheese, saffron, butter",
+            "cooking_method": "1. Toast the rice in a pan.\n2. Add hot beef stock and stir until the rice is cooked.\n3. Add saffron, grated Parmigiano Reggiano cheese, and butter.\n4. Stir until the cheese is melted and serve.",
             "rating": 4.5
           },
           {
-            "name": "Grilled Ribeye Steak",
-            "ingredients": [
-              "2 ribeye steaks",
-              "2 tbsp olive oil",
-              "1 tsp salt",
-              "1 tsp black pepper",
-              "2 sprigs fresh thyme"
-            ],
-            "cooking_method": "Season the ribeye steaks with salt and pepper. Heat the grill to high heat. Brush the steaks with olive oil and place them on the grill. Cook for 3-4 minutes on each side for medium-rare, or until desired doneness is reached. Remove the steaks from the grill and let them rest for 5 minutes. Top each steak with a sprig of thyme and serve.",
+            "name": "Osso buco alla milanese",
+          "ingredients": "Veal shanks, beef stock, white wine, onion, celery, carrot, garlic, tomato paste, lemon zest, parsley",
+          "cooking_method": "1. Brown the veal shanks in a pan.\n2. Add chopped onion, celery, carrot, and garlic.\n3. Add beef stock, white wine, tomato paste, and lemon zest.\n4. Cook on low heat for 2-3 hours until the meat is tender.\n5. Garnish with chopped parsley and serve.",
             "rating": 4.8
           },
           {
-            "name": "Lobster Risotto",
-            "ingredients": [
-              "1 cup arborio rice",
-              "2 cups chicken broth",
-              "1/4 cup white wine",
-              "1 lobster tail",
-              "1/4 cup grated parmesan cheese"
-            ],
-            "cooking_method": "Heat the chicken broth and white wine in a saucepan over low heat. In a separate pan, sauté the arborio rice in olive oil for 2-3 minutes until lightly toasted. Add a ladleful of the hot broth to the rice and stir until absorbed. Repeat this process until all the broth has been added and the rice is cooked through. In another pan, cook the lobster tail in butter until pink and cooked through. Remove the meat from the shell and chop into bite-sized pieces. Add the lobster meat to the risotto along with the grated parmesan cheese. Serve hot.",
+            "name": "Panna cotta",
+            "ingredients": "Heavy cream, sugar, gelatin, vanilla extract, mixed berries",
+            "cooking_method": "1. Heat the heavy cream and sugar in a pan.\n2. Add gelatin and stir until it dissolves.\n3. Add vanilla extract and stir until well combined.\n4. Pour the mixture into small cups and refrigerate for at least 2 hours.\n5. Serve with mixed berries on top.",
             "rating": 4.6
           }
         ]
       },
       {
         "id": 3,
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrDhxH66CgEa9-xHLbRIz-ZXAWIuDZ-Y5Xdf8X3f1vN4Ef7fh5d9x89o0pcoOllS4iaU&usqp=CAU",
-        "name": "Makgra Smith",
+        "picture": "https://www.wbpstars.com/wp-content/uploads/2021/02/Ristorante-Cracco-photo6016f0f813e86.jpg",
+        "name": "Carlo Cracco",
         "years_of_experience": 12,
         "num_of_recipes": 70,
         "likes": 1200,
-        "bio": "Makgra Smith is a professional chef with over 10 years of experience. He specializes in Italian cuisine and has created numerous award-winning recipes.",
+        "bio": "Carlo Cracco is an Italian chef and television personality. He is known for his modern interpretation of traditional Italian dishes.",
         "recipes": [
             {
-                "name": "Spaghetti Carbonara",
-                "ingredients": ["spaghetti", "eggs", "bacon", "parmesan cheese", "black pepper"],
-                "cooking_method": "Cook spaghetti according to package instructions. While the spaghetti is cooking, cook the bacon in a pan until crispy. Beat the eggs and mix in the parmesan cheese and black pepper. Drain the spaghetti and add it to the pan with the bacon. Turn off the heat and quickly mix in the egg mixture. Serve immediately.",
+              "name": "Spaghetti alla carbonara",
+              "ingredients": "Spaghetti, guanciale (cured pork cheek), eggs, Pecorino Romano cheese, black pepper",
+              "cooking_method": "1. Cook the spaghetti according to the instructions on the package.\n2. In a pan, sauté the guanciale until crispy.\n3. In a bowl, beat the eggs with grated Pecorino Romano cheese and black pepper.\n4. Drain the spaghetti and add it to the pan with guanciale.\n5. Turn off the heat and pour the egg mixture over the spaghetti.\n6. Stir until the eggs are cooked but still creamy.",
                 "rating": 4.5
             },
             {
-                "name": "Margherita Pizza",
-                "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "basil leaves", "olive oil"],
-                "cooking_method": "Preheat oven to 450°F. Roll out the pizza dough and spread the tomato sauce evenly over it. Add the mozzarella cheese and basil leaves. Drizzle with olive oil. Bake for 10-12 minutes or until the crust is golden brown.",
+              "name": "Veal Milanese",
+              "ingredients": "Veal cutlets, flour, eggs, breadcrumbs, lemon, butter",
+              "cooking_method": "1. Season the veal cutlets with salt and pepper.\n2. Dredge the cutlets in flour, dip them in beaten eggs, and coat with breadcrumbs.\n3. In a pan, melt the butter and fry the cutlets until golden brown.\n4. Serve with a wedge of lemon.",
                 "rating": 4.7
             },
             {
-                "name": "Tiramisu",
-                "ingredients": ["ladyfingers", "espresso", "mascarpone cheese", "heavy cream", "cocoa powder"],
-                "cooking_method": "Brew a strong cup of espresso and let it cool. Mix the mascarpone cheese and heavy cream in a bowl until smooth. Dip the ladyfingers in the espresso and arrange them in a single layer in a dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of ladyfingers and the remaining mascarpone mixture. Dust with cocoa powder. Refrigerate for at least 2 hours before serving.",
+              "name": "Tiramisù",
+              "ingredients": "Ladyfingers, espresso, mascarpone cheese, eggs, sugar, cocoa powder",
+              "cooking_method": "1. Dip the ladyfingers in espresso and arrange them in a single layer in a dish.\n2. In a bowl, beat the egg yolks with sugar.\n3. Add the mascarpone cheese and mix well.\n4. In another bowl, beat the egg whites until stiff peaks form.\n5. Fold the egg whites into the mascarpone mixture.\n6. Spread the mixture over the ladyfingers.\n7. Dust with cocoa powder and refrigerate for at least 2 hours.",
                 "rating": 4.9
             }
         ]
     },
     {
         "id": 4,
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYczjC86dFMH1mvWNCt0_7cKG5HQKwIYF3coW3gXHZn9nM37qJBbfJYFLapHnzPeaAA0&usqp=CAU",
-        "name": "Maria Garcia",
+        "picture": "https://nypost.com/wp-content/uploads/sites/2/2013/08/092310eataly03vw183947-300x300.jpg?quality=75&strip=all",
+        "name": "Lidia Bastianich",
         "years_of_experience": 10,
         "num_of_recipes": 50,
         "likes": 2000,
-        "bio": "Maria Garcia is an experienced chef with a passion for creating delicious and healthy meals. He has worked in some of the top restaurants in the country and has won several awards for his culinary skills.",
+        "bio": "Lidia Bastianich is an Italian-American chef, television personality, and restaurateur. She is known for her traditional Italian dishes.",
         "recipes": [
           {
-            "name": "Grilled Salmon with Asparagus",
-            "ingredients": ["salmon fillets", "asparagus", "lemon", "olive oil", "salt"],
-            "cooking_method": "Preheat grill to medium-high heat. Brush salmon and asparagus with olive oil and season with salt. Grill salmon for 4-5 minutes per side, until cooked through. Grill asparagus for 3-4 minutes, until tender. Serve with a squeeze of fresh lemon juice.",
+            "name": "Pasta e fagioli",
+            "ingredients": "Cannellini beans, ditalini pasta, onion, carrot, celery, garlic, tomato paste, chicken broth, Parmigiano Reggiano cheese",
+            "cooking_method": "1. Sauté chopped onion, carrot, celery, and garlic in a pan.\n2. Add tomato paste and cook for a minute.\n3. Add cannellini beans and chicken broth.\n4. Simmer for 10-15 minutes.\n5. Add ditalini pasta and cook until al dente.\n6. Serve with grated Parmigiano Reggiano cheese on top.",
             "rating": 4.5
           },
           {
-            "name": "Vegetable Stir-Fry",
-            "ingredients": ["mixed vegetables", "garlic", "ginger", "soy sauce", "rice"],
-            "cooking_method": "Heat oil in a wok or large skillet over high heat. Add garlic and ginger and stir-fry for 30 seconds. Add mixed vegetables and stir-fry for 3-4 minutes, until tender-crisp. Add soy sauce and stir to combine. Serve over cooked rice.",
+            "name": "Orecchiette with broccoli rabe and sausage",
+            "ingredients": "Orecchiette pasta, broccoli rabe, Italian sausage, garlic, red pepper flakes, Parmigiano Reggiano cheese",
+            "cooking_method": "1. Cook the orecchiette pasta according to the instructions on the package.\n2. In a pan, cook crumbled Italian sausage until browned.\n3. Add minced garlic and red pepper flakes and cook for another minute.\n4. Add blanched broccoli rabe and sauté for a few minutes.\n5. Drain the pasta and add it to the pan with the sausage and broccoli rabe.\n6. Toss everything together.\n7. Serve with grated Parmigiano Reggiano cheese on top.",
             "rating": 4.0
           },
           {
-            "name": "Roasted Chicken with Rosemary",
-            "ingredients": ["chicken", "rosemary", "garlic", "olive oil", "salt"],
-            "cooking_method": "Preheat oven to 400°F. Rub chicken with olive oil and season with salt and chopped rosemary. Place chicken in a roasting pan and roast for 50-60 minutes, until cooked through. Let rest for 5-10 minutes before carving.",
+            "name": "Torta della nonna",
+"ingredients": "Pastry dough, milk, sugar, flour, eggs, lemon zest, pine nuts, powdered sugar",
+"cooking_method": "1. Preheat the oven to 350°F.\n2. In a saucepan, heat milk, sugar, flour, and lemon zest until it thickens.\n3. In a bowl, beat the egg yolks and add them to the milk mixture.\n4. Roll out the pastry dough and use it to line a pie dish.\n5. Pour the milk mixture into the pastry shell.\n6. Sprinkle with pine nuts.\n7. Bake for 30-35 minutes, or until golden brown.\n8. Let it cool and dust with powdered sugar before serving.",
             "rating": 5.0
           }
         ]
       },
       {
         "id": 5,
-        "picture": "https://thumbs.dreamstime.com/z/cooking-chef-12619869.jpg",
-        "name": "Paul Stirling",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxv3wvjeCJO5N4d5KLeAGhlC1pZHaHG2E6Cg&usqp=CAU",
+        "name": "Gennaro Contaldo",
         "years_of_experience": 20,
         "number_of_recipes": 50,
         "likes": 1200,
-        "bio": "Paul is a classically trained chef with a passion for Italian cuisine.",
+        "bio": "Gennaro Contaldo is an Italian chef and restaurateur. He is known for his traditional Neapolitan dishes.",
         "recipes": [
           {
-            "name": "Pasta Carbonara",
-            "ingredients": ["pasta", "pancetta", "eggs", "parmigiano-reggiano", "black pepper"],
-            "cooking_method": "Cook pasta according to package instructions. In a separate pan, cook pancetta until crispy. Whisk eggs and cheese together in a bowl. Drain pasta and add to the pan with the pancetta. Turn off the heat and add the egg mixture, stirring until the pasta is coated. Add black pepper to taste.",
+            "name":"Spaghetti alla puttanesca",
+            "ingredients": "Spaghetti pasta, canned tomatoes, olives, capers, anchovy fillets, garlic, red pepper flakes",
+            "cooking_method": "1. Cook the spaghetti pasta according to the instructions on the package.\n2. In a pan, heat olive oil and sauté minced garlic and red pepper flakes.\n3. Add canned tomatoes and let it simmer for a few minutes.\n4. Add pitted olives, capers, and chopped anchovy fillets.\n5. Simmer for another few minutes.\n6. Drain the pasta and add it to the pan.\n7. Toss everything together.\n8. Serve hot.",
             "rating": 4.5
           },
           {
-            "name": "Risotto alla Milanese",
-            "ingredients": ["arborio rice", "onion", "white wine", "saffron", "parmigiano-reggiano"],
-            "cooking_method": "Heat olive oil in a pan and add onion, cooking until softened. Add rice and cook for 1-2 minutes, stirring constantly. Add white wine and stir until it has been absorbed. Add a ladleful of hot chicken broth and stir until it has been absorbed. Repeat until rice is cooked through. Add saffron and cheese, stirring until melted and creamy.",
+            "name": "Pizza Margherita",
+            "ingredients": "Pizza dough, canned San Marzano tomatoes, fresh mozzarella cheese, basil leaves, extra-virgin olive oil",
+            "cooking_method": "1. Preheat the oven to 450°F.\n2. Roll out the pizza dough and place it on a baking sheet.\n3. Spread canned San Marzano tomatoes on top of the dough.\n4. Add sliced fresh mozzarella cheese.\n5. Drizzle with extra-virgin olive oil.\n6. Bake in the oven for 12-15 minutes, or until the crust is golden brown and the cheese is melted.\n7. Top with fresh basil leaves before serving.",
             "rating": 4.8
           },
           {
-            "name": "Tiramisu",
-            "ingredients": ["ladyfingers", "espresso", "mascarpone cheese", "eggs", "sugar"],
-            "cooking_method": "Brew espresso and let it cool. Mix mascarpone cheese, egg yolks, and sugar together in a bowl. Beat egg whites separately until stiff peaks form. Fold egg whites into the mascarpone mixture. Dip ladyfingers into the cooled espresso and place in a layer in a dish. Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of ladyfingers and mascarpone mixture. Chill for at least 2 hours.",
+            "name": "Zeppole",
+"ingredients": "All-purpose flour, baking powder, salt, eggs, milk, sugar, lemon zest, vegetable oil",
+"cooking_method": "1. In a bowl, mix together all-purpose flour, baking powder, and salt.\n2. In another bowl, beat eggs, milk, sugar, and lemon zest.\n3. Add the flour mixture to the egg mixture and stir until well combined.\n4. Heat vegetable oil in a pan.\n5. Using a spoon, drop small balls of batter into the hot oil.\n6. Fry until golden brown on both sides.\n7. Remove with a slotted spoon and drain on paper towels.\n8. Serve warm, dusted with powdered sugar.",
             "rating": 4.7
           }
         ]
       },
       {
         "id": 6,
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-JjaV3KmwoSe2SfnvgnNdHd4y-rLdXlYsMg&usqp=CAU",
-        "name": "Chef Angelina",
+        "picture": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/open_graph_image/public/Gordon-Ramsay.jpg?itok=N_6PGd_H",
+        "name": "Gordon Ramsay",
         "years_of_experience": 10,
         "num_of_recipes": 50,
         "likes": 1000,
-        "bio": "Chef Angselina has been cooking professionally for 10 years and has a passion for creating innovative and delicious dishes.",
+        "bio": "Gordon Ramsay is a Italian-British chef, restaurateur, and television personality. He is known for his fiery personality and his expertise in French and British cuisine.",
         "recipes": [
           {
-            "name": "Grilled Salmon",
-            "ingredients": ["salmon fillet", "olive oil", "lemon", "salt", "pepper"],
-            "cooking_method": "1. Preheat grill to medium-high heat. 2. Brush salmon fillet with olive oil and season with salt and pepper. 3. Grill salmon for 4-5 minutes on each side. 4. Squeeze fresh lemon juice over the salmon before serving.",
+            "name": "Beef Wellington",
+            "ingredients": "Beef tenderloin, puff pastry, prosciutto, cremini mushrooms, Dijon mustard, egg wash",
+            "cooking_method": "1. Season the beef tenderloin with salt and pepper.\n2. In a pan, sear the beef tenderloin on all sides until browned.\n3. Set aside and let it cool.\n4. In the same pan, sauté chopped cremini mushrooms until softened.\n5. Spread Dijon mustard on a layer of prosciutto.\n6. Place the sautéed mushrooms on top of the prosciutto.\n7. Place the seared beef tenderloin on top of the mushrooms.\n8. Wrap the beef tenderloin in the prosciutto and mushrooms.\n9. Roll out the puff pastry and wrap the beef tenderloin with it.\n10. Brush the puff pastry with egg wash.\n11. Bake in the oven at 400°F for 30-40 minutes, or until the puff pastry is golden brown and the beef tenderloin is cooked to your desired doneness.\n12. Let it rest for 10 minutes before slicing and serving.",
             "rating": 4.5
           },
           {
-            "name": "Pesto Pasta",
-            "ingredients": ["pasta", "pesto sauce", "cherry tomatoes", "parmesan cheese", "garlic"],
-            "cooking_method": "1. Cook pasta according to package instructions. 2. In a pan, sauté garlic and cherry tomatoes. 3. Add cooked pasta and pesto sauce to the pan and toss to combine. 4. Serve with grated parmesan cheese.",
+            "name": "Lobster risotto",
+            "ingredients": "Arborio rice, lobster tails, onion, garlic, white wine, chicken broth, Parmigiano Reggiano cheese, parsley",
+            "cooking_method": "1. In a pot, heat chicken broth and keep it simmering.\n2. In another pot, sauté chopped onion and garlic until softened.\n3. Add Arborio rice and stir until coated with the onion mixture.\n4. Add white wine and stir until the liquid is absorbed.\n5. Add a ladleful of hot chicken broth to the rice and stir until the liquid is absorbed.\n6. Repeat with the remaining broth, stirring constantly, until the rice is tender but still has a bite to it.\n7. In a pan, cook lobster tails until pink.\n8. Remove the meat from the lobster tails and chop into bite-sized pieces.\n9. Add the chopped lobster meat to the risotto.\n10. Add grated Parmigiano Reggiano cheese and chopped parsley.\n11. Stir until everything is well combined.\n12. Serve hot.",
             "rating": 4.8
           },
           {
-            "name": "Beef Stir Fry",
-            "ingredients": ["beef sirloin", "soy sauce", "vegetable oil", "garlic", "ginger"],
-            "cooking_method": "1. Cut beef into thin strips. 2. Heat vegetable oil in a pan and add garlic and ginger. 3. Add beef and stir fry for 2-3 minutes. 4. Add soy sauce and cook for another minute. 5. Serve with rice or noodles.",
+            "name": "Sticky toffee pudding",
+            "ingredients": "Dates, all-purpose flour, baking powder, baking soda, salt, unsalted butter, brown sugar, eggs, vanilla extract, heavy cream",
+            "cooking_method": "1. Preheat the oven to 350°F.\n2. In a bowl, soak chopped dates in hot water for 10 minutes.\n3. In another bowl, mix together all-purpose flour, baking powder, baking soda, and salt.\n4. In a stand mixer, beat unsalted butter and brown sugar until light and creamy.\n5. Add eggs, one at a time, and vanilla extract.\n6. Gradually add the flour mixture and mix until well combined.\n7. Add the soaked dates and mix until well combined.\n8. Pour the batter into a greased baking dish.\n9. Bake in the oven for 30-40 minutes, or until a toothpick inserted in the center comes out clean.\n10. In a saucepan, heat heavy cream and brown sugar until it starts to bubble and thicken.\n11. Remove the pan from the heat and stir in the butter until melted and fully combined.\n12. Pour the caramel sauce over the warm cake and let it soak in for a few minutes.\n13. Serve warm with a dollop of whipped cream, if desired.",
             "rating": 4.2
           }
         ]
